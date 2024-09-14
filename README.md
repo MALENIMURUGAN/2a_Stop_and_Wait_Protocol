@@ -1,7 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
-## AIM :
+
 ## NAME: MALENI M
 ## REGISTER NO: 212223040110
+## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
 1. Start the program.
